@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560705657428",
+    "project_id": "authphone-a77ae",
+    "storage_bucket": "authphone-a77ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560705657428:android:c42e571abd4fde5e1cabc1",
+        "android_client_info": {
+          "package_name": "com.example.authphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv24eV6Bxy8UfDQqtz1Bpa8pEyW42GZ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
